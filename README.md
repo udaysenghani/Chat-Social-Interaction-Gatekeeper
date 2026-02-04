@@ -1,4 +1,4 @@
-# 🛡️ AI Gatekeeper
+# 🛡️ Chat-Social-Interaction-Gatekeeper
 
 **AI Gatekeeper** is a robust, real-time chat moderation system designed to protect communities from malicious content using advanced AI. Powered by **Google Gemini 2.5 Flash**, it automatically detects and flags phishing, scams, toxicity, harassment, and hate speech in real-time, ensuring a safe digital environment.
 
